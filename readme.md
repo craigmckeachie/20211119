@@ -212,6 +212,8 @@ connectionString="Data Source=(localdb)\MSSQLLocalDB;
 
 ### Solution Code
 
+- [Entity Framework Solution Code](https://github.com/craigmckeachie/NorthwindConsole1)
+
 ## Reference: 
 - [Code First from Existing Database](https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/existing-database)
 - [Query Syntax vs Method Syntax](https://stackoverflow.com/questions/8037677/linq-query-syntax-vs-method-chains-lambda)
