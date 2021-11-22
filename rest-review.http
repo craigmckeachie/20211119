@@ -1,0 +1,13 @@
+### GET XML
+GET http://localhost:55183/api/course
+Content-Type: application/xml
+
+### GET JSON
+GET http://localhost:55183/api/course
+Content-Type: application/json
+
+### GET BY TITLE
+
+GET http://localhost:55183/api/course?title=net
+Content-Type: application/json
+
