@@ -41,8 +41,21 @@
 
 ## Documentation
 
-[jQuery Documentation](https://learn.jquery.com/about-jquery/how-jquery-works/)
-[jQuery Quick API Reference](https://oscarotero.com/jquery/)
+- [jQuery Documentation](https://learn.jquery.com/about-jquery/how-jquery-works/)
+- [jQuery Quick API Reference](https://oscarotero.com/jquery/)
+
+## Commands
+
+```js
+var test = 'Army'
+console.log(test)
+$("a.yellow-button-on-dark-background").get(0)
+$("a")
+$("a").length
+$("a.second-level-tagging").length
+$("a").first().text("foo")
+$("a[data-di-id='di-id-13cc3787-99e97e5']").get(0)
+```
 
 
 ## Selectors
@@ -215,6 +228,8 @@ connectionString="Data Source=(localdb)\MSSQLLocalDB;
 - [Entity Framework Solution Code](https://github.com/craigmckeachie/NorthwindConsole1)
 
 ## Reference: 
+- [Murach's JavaScript & jQuery](https://www.murach.com/shop/murach-s-javascript-and-jquery-4th-edition-detail)
+- [Tutorial ASP.NET MVC with Entity Framework 6](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application)
 - [Code First from Existing Database](https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/existing-database)
 - [Query Syntax vs Method Syntax](https://stackoverflow.com/questions/8037677/linq-query-syntax-vs-method-chains-lambda)
 - [Do I have to Call Dispose on DBContext](https://blog.jongallant.com/2012/10/do-i-have-to-call-dispose-on-dbcontext/)

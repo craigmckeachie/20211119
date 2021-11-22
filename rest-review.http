@@ -8,6 +8,6 @@ Content-Type: application/json
 
 ### GET BY TITLE
 
-GET http://localhost:55183/api/course?title=net
+GET http://localhost:55183/api/course?title=oracle
 Content-Type: application/json
 
