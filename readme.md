@@ -219,3 +219,4 @@ connectionString="Data Source=(localdb)\MSSQLLocalDB;
 - [Query Syntax vs Method Syntax](https://stackoverflow.com/questions/8037677/linq-query-syntax-vs-method-chains-lambda)
 - [Do I have to Call Dispose on DBContext](https://blog.jongallant.com/2012/10/do-i-have-to-call-dispose-on-dbcontext/)
 - [Querying Related Data](https://docs.microsoft.com/en-us/ef/ef6/querying/related-data)
+- [Implementing the Repository and Unite of Work Patterns in ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
