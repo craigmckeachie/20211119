@@ -1,3 +1,7 @@
+# Notes
+
+https://github.com/craigmckeachie/20211119#readme
+
 # Table of Contents
 
 - [Web API](WebAPI.md)
@@ -13,7 +17,7 @@
 
 # VMs
 
-https://wintellect.learnondemand.net/Class/426643
-Microsoft Account
-craigdmckeachie@gmail.com
+- https://wintellect.learnondemand.net/Class/426643
+<!-- - Microsoft Account
+craigdmckeachie@gmail.com -->
 
