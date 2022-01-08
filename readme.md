@@ -1,6 +1,6 @@
 # Notes
 
-https://github.com/craigmckeachie/20211119#readme
+https://github.com/craigmckeachie/20211119/blob/main/readme.md
 
 # Table of Contents
 
@@ -20,4 +20,3 @@ https://github.com/craigmckeachie/20211119#readme
 - https://wintellect.learnondemand.net/Class/426643
 <!-- - Microsoft Account
 craigdmckeachie@gmail.com -->
-
