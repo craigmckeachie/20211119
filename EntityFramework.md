@@ -12,14 +12,15 @@ connectionString="Data Source=(localdb)\MSSQLLocalDB;
 
 ### Setup
 
-1. Create a new Console Project
-2. Install Northwind Database using Scripts
+1. Install SQL Server Management Studio using [the link in this article](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15).
+1. Install Northwind Database using Scripts
    - [Download Scripts](https://jasontaylor.dev/wp-content/uploads/2017/03/NorthwindTraders.zip)
    - create db manually
    - open new query on db
    - open scripts in text editor (VS Code)
    - paste script into new query
-3. Right click project > Add New Item > Entity Framework Model > name: NorthwindContext
+1. Create a new Console Project
+1. Right click project > Add New Item > Entity Framework Model > name: NorthwindContext
 
 ### Query
 
@@ -88,4 +89,5 @@ connectionString="Data Source=(localdb)\MSSQLLocalDB;
 - [Query Syntax vs Method Syntax](https://stackoverflow.com/questions/8037677/linq-query-syntax-vs-method-chains-lambda)
 - [Do I have to Call Dispose on DBContext](https://blog.jongallant.com/2012/10/do-i-have-to-call-dispose-on-dbcontext/)
 - [Querying Related Data](https://docs.microsoft.com/en-us/ef/ef6/querying/related-data)
-- [Implementing the Repository and Unite of Work Patterns in ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
+- [Implementing the Repository and Unit of Work Patterns in ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
+- [Create Northwind Traders Code First with Entity Framework Core – Part 1](https://jasontaylor.dev/create-northwind-traders-code-first-with-entity-framework-core-part-1/)
