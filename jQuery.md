@@ -107,3 +107,9 @@ $("a[data-di-id='di-id-13cc3787-99e97e5']").get(0);
 ```
 
 <br>
+
+## Reference
+
+- [jQuery Quick API Reference](https://oscarotero.com/jquery/)
+- [Murach's JavaScript & jQuery](https://www.murach.com/shop/murach-s-javascript-and-jquery-4th-edition-detail)
+- [jQuery in Action](https://www.manning.com/books/jquery-in-action-third-edition)

@@ -83,12 +83,9 @@ connectionString="Data Source=(localdb)\MSSQLLocalDB;
 
 ## Reference:
 
-- [Murach's JavaScript & jQuery](https://www.murach.com/shop/murach-s-javascript-and-jquery-4th-edition-detail)
 - [Tutorial ASP.NET MVC with Entity Framework 6](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application)
 - [Code First from Existing Database](https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/existing-database)
 - [Query Syntax vs Method Syntax](https://stackoverflow.com/questions/8037677/linq-query-syntax-vs-method-chains-lambda)
 - [Do I have to Call Dispose on DBContext](https://blog.jongallant.com/2012/10/do-i-have-to-call-dispose-on-dbcontext/)
 - [Querying Related Data](https://docs.microsoft.com/en-us/ef/ef6/querying/related-data)
 - [Implementing the Repository and Unite of Work Patterns in ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
-- [](https://stackoverflow.com/questions/38996593/promise-equivalent-in-c-sharp#:~:text=6%20Answers&text=Task%20is%20a%20future,is%20a%20promise.)
-- [](<https://docs.microsoft.com/en-us/previous-versions/aspnet/ff847525(v=vs.100)?redirectedfrom=MSDN>)

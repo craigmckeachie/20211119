@@ -10,3 +10,10 @@
 # Solution Code
 
 - [Socrates](https://github.com/craigmckeachie/Socrates)
+
+# VMs
+
+https://wintellect.learnondemand.net/Class/426643
+Microsoft Account
+craigdmckeachie@gmail.com
+
