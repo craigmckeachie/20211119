@@ -91,3 +91,5 @@ connectionString="Data Source=(localdb)\MSSQLLocalDB;
 - [Querying Related Data](https://docs.microsoft.com/en-us/ef/ef6/querying/related-data)
 - [Implementing the Repository and Unit of Work Patterns in ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
 - [Create Northwind Traders Code First with Entity Framework Core – Part 1](https://jasontaylor.dev/create-northwind-traders-code-first-with-entity-framework-core-part-1/)
+- [Entity Framework Tutorial](https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx)
+- [Entity Framework Cascade Deletes](https://www.entityframeworktutorial.net/code-first/cascade-delete-in-code-first.aspx)
