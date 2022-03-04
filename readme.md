@@ -4,6 +4,7 @@ https://github.com/craigmckeachie/20211119/blob/main/readme.md
 
 # Table of Contents
 
+- [Week 3 Recap](Week3Recap.md)
 - [Web API](WebAPI.md)
 - [jQuery](jQuery.md)
 - [Entity Framework](EntityFramework.md)
